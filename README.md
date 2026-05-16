@@ -23,6 +23,6 @@ This repository contains an end-to-end data analytics project focused on identif
 * **Support Bundling:** Mandate proactive technical support check-ins during the first 90 days of new Fiber installations to maximize subscriber "stickiness."
 
 ## 📂 How to Navigate this Project
-* `/notebooks`: Contains the Jupyter Notebook mapping out the initial data profiling and cleaning pipeline.
+* [`/notebook`](): Contains the Jupyter Notebook mapping out the initial data profiling and cleaning pipeline.
 * `/sql_queries`: Contains optimized SQL scripts isolating high-risk cohorts and tenure aggregations.
 * `/powerbi`: Contains the native `.pbix` file. Download and open in Power BI Desktop to explore interactive filtering.
