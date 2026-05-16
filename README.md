@@ -4,7 +4,7 @@
 This repository contains an end-to-end data analytics project focused on identifying customer churn drivers for a telecommunications provider. By combining data engineering in Python, structured deep-dives in SQL, and interactive visual analytics in Power BI, this project quantifies **$100.8K in active revenue at risk** and maps out a strategic blueprint to mitigate a **$139.1K monthly revenue leakage**.
 
 ## 📊 Interactive Dashboard
-![Telecom Retention Dashboard](https://github.com/Analyst-Ishika/Telecom-Customer-Churn-Revenue-Optimization-Analysis/blob/main/Reducing%20Subscription%20Churn%20Dashboard.pdf)
+[Telecom Retention Dashboard](https://github.com/Analyst-Ishika/Telecom-Customer-Churn-Revenue-Optimization-Analysis/blob/main/Reducing%20Subscription%20Churn%20Dashboard.pdf)
 
 ## 🛠️ Tech Stack & Skills Demonstrated
 * **Data Extraction & Cleaning:** Python (Pandas) for handling missing data, standardizing feature schemas, and feature engineering.
